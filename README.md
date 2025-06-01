@@ -1,8 +1,3 @@
-# Create a downloadable README.md file for the DLP Blueprint presentation
-readme_content = """# DLP Blueprint  
-_Data Loss Prevention Design & Implementation Guide_
-
----
 
 ## 📖 Overview  
 This repository contains the **“DLP Blueprint”** deck, which outlines a structured approach for designing, implementing, and managing Data Loss Prevention (DLP) strategies for an organization. The guide serves as a reference for security teams, consultants, and architects undertaking DLP-focused engagements.
